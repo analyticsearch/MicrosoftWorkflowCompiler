@@ -1,2 +1,3 @@
 # MicrosoftWorkflowCompiler
-Execute Commands using Microsoft.Workflow.Compiler.exe
+
+C:\Windows\Microsoft.Net\Framework64\v4.0.30319\Microsoft.Workflow.Compiler.exe test.xml mimikatz_results.xml
